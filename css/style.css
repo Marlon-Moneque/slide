@@ -35,3 +35,7 @@ img {
   opacity: 1;
   transform: scale(1);
 }
+.arrow-nav {
+  text-align: center;
+  margin: 10px auto;
+}
